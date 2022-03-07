@@ -1,14 +1,18 @@
-### Hi there 👋
+### Hi there, we are the SolidScope.
 
+This is the official github of SolidScope, check our github on our official website: https://www.solidscope.co/
 
-Here are some ideas to get you started:
+### SolidScope provides: 
+🛠 Smart Contract Auditing
+🦹‍♂️ KYC/Doxx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Official Links:
+
+mailto:info@solidscope.co
+
+[<img align="left" alt="SolidScope | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="SolidScope | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<br />
+
+[twitter]: https://twitter.com/solidscopeco
+[telegram]: https://t.me/solidscope
