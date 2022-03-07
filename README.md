@@ -1,6 +1,6 @@
 ### Hi there, we are the SolidScope. 
 
-[<img align="left" alt="SolidScope" width="40px" src="https://solidscope.co/solidscope.svg" />][solidscope]
+[<img align="left" alt="SolidScope" width="120px" src="https://solidscope.co/solidscope.svg" />][solidscope]
 [solidscope]: https://www.solidscope.co/
 
 This is the official github of SolidScope, check our github on our official website: https://www.solidscope.co/
