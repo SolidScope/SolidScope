@@ -3,7 +3,7 @@
 This is the official github of SolidScope, check our github on our official website: https://www.solidscope.co/
 
 ### SolidScope provides: 
-🛠 Smart Contract Auditing
+🛠 Smart Contract Auditing <br />
 🦹‍♂️ KYC/Doxx
 
 ### Official Links:
