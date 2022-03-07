@@ -4,6 +4,7 @@
 <br />
 
 [solidscope]: https://www.solidscope.co/
+<br />
 
 This is the official github of SolidScope, <br /> check our github on our official website: https://www.solidscope.co/
 
