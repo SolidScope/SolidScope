@@ -16,7 +16,7 @@ This is the official github of SolidScope, <br /> check our github on our offici
 
 info@solidscope.co
 
-[<img align="left" alt="SolidScope | Twitter" width="22px" src="https://solidscope.co/twitter.svg" color: "#BDF600" />][twitter]
+[<img align="left" alt="SolidScope | Twitter" width="22px" src="https://solidscope.co/twitter.svg" />][twitter]
 [<img align="left" alt="SolidScope | Telegram" width="22px" src="https://solidscope.co/telegram.svg" />][telegram]
 <br />
 
