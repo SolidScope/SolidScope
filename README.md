@@ -1,6 +1,6 @@
 ### Hi there, we are the SolidScope. 
 
-[<img align="left" alt="SolidScope" width="250px" src="https://solidscope.co/solidscope.svg" />][solidscope]
+[<img align="left" alt="SolidScope" width="350px" src="https://solidscope.co/solidscope.svg" />][solidscope]
 <br />
 
 [solidscope]: https://www.solidscope.co/
