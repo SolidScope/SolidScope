@@ -1,4 +1,4 @@
-### Hi there, we are the SolidScope. 
+### Hi there, we are SolidScope. 
 
 [<img align="left" alt="SolidScope" width="350px" src="https://solidscope.co/solidscope.svg" />][solidscope]
 <br />
